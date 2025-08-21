@@ -1,0 +1,43 @@
+.container {
+  width: 1480px;
+  padding: 0 20px 133px;
+  margin: 0 auto;
+  display: flex;
+  gap: 50px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 171%;
+  letter-spacing: 0em;
+  text-transform: uppercase;
+}
+
+.title {
+  transform: translateY(50px);
+}
+
+.description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 171%;
+  letter-spacing: 0em;
+  max-width: 614px;
+}
+
+.textBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.textBlock {
+  transform: translateY(-50px);
+}
