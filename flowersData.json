@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/images/flower1.jpg",
+    "name": "Morning",
+    "price": "30$"
+  },
+  {
+    "id": 2,
+    "image": "/images/flower2.jpg",
+    "name": "Dawn",
+    "price": "40$"
+  },
+  {
+    "id": 3,
+    "image": "/images/flower3.jpg",
+    "name": "Soft",
+    "price": "25$"
+  }
+]
