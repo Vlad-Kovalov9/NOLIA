@@ -1,0 +1,15 @@
+.container {
+  width: 1480px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.logo {
+  display: block;
+  font-weight: 300;
+  font-size: 64px;
+  color: #291b1b;
+  font-family: "Cormorant Garamond", serif;
+  text-align: center;
+  margin: 28px auto 10px;
+}
