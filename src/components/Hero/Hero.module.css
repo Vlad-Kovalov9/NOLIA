@@ -1,0 +1,20 @@
+.container {
+  width: 1480px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #1e1e1e;
+  max-width: 534px;
+  margin: 17px auto 107px;
+}
+
+.image {
+  object-fit: cover;
+}
